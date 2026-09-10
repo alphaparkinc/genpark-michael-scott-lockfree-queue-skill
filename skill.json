@@ -1,0 +1,17 @@
+{
+  "name": "genpark-michael-scott-lockfree-queue-skill",
+  "version": "1.0.0",
+  "description": "Michael-Scott non-blocking lock-free concurrent FIFO queue using atomic pointer comparisons and safe multi-threaded enqueue/dequeue transitions.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "michael-scott-queue",
+    "lock-free",
+    "concurrent-queue",
+    "cas",
+    "multithreading"
+  ],
+  "dependencies": []
+}
